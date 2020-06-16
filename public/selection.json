@@ -3,6 +3,150 @@
     "icons": [
         {
             "icon": {
+                "paths": ["M651.636 46.545v186.182M279.273 46.545v186.182M46.545 418.909h837.818M139.636 139.636h651.636c51.414 0 93.091 41.678 93.091 93.091v651.636c0 51.414-41.677 93.091-93.091 93.091h-651.636c-51.413 0-93.091-41.677-93.091-93.091v-651.636c0-51.413 41.678-93.091 93.091-93.091z"],
+                "attrs": [
+                    {
+                        "fill": "none",
+                        "stroke": "rgb(153, 153, 153)",
+                        "strokeLinejoin": "round",
+                        "strokeLinecap": "round",
+                        "strokeMiterlimit": "4",
+                        "strokeWidth": 46.54545454545455
+                    }
+                ],
+                "width": 931,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["calendar"]
+            },
+            "attrs": [
+                {
+                    "fill": "none",
+                    "stroke": "rgb(153, 153, 153)",
+                    "strokeLinejoin": "round",
+                    "strokeLinecap": "round",
+                    "strokeMiterlimit": "4",
+                    "strokeWidth": 46.54545454545455
+                }
+            ],
+            "properties": {
+                "order": 6,
+                "id": 2,
+                "name": "calendar",
+                "prevSize": 32,
+                "code": 59648
+            },
+            "setIdx": 0,
+            "setId": 4,
+            "iconIdx": 0
+        },
+        {
+            "icon": {
+                "paths": ["M46.545 744.727l465.455 232.727 465.455-232.727M46.545 512l465.455 232.727 465.455-232.727M512 46.545l-465.455 232.727 465.455 232.727 465.455-232.727-465.455-232.727z"],
+                "attrs": [
+                    {
+                        "fill": "none",
+                        "stroke": "rgb(153, 153, 153)",
+                        "strokeLinejoin": "round",
+                        "strokeLinecap": "round",
+                        "strokeMiterlimit": "4",
+                        "strokeWidth": 46.54545454545455
+                    }
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["list"]
+            },
+            "attrs": [
+                {
+                    "fill": "none",
+                    "stroke": "rgb(153, 153, 153)",
+                    "strokeLinejoin": "round",
+                    "strokeLinecap": "round",
+                    "strokeMiterlimit": "4",
+                    "strokeWidth": 46.54545454545455
+                }
+            ],
+            "properties": {
+                "order": 5,
+                "id": 1,
+                "name": "list",
+                "prevSize": 32,
+                "code": 59649
+            },
+            "setIdx": 0,
+            "setId": 4,
+            "iconIdx": 1
+        },
+        {
+            "icon": {
+                "paths": [
+                    "M855.526 581.709l25.863 25.86 0.077-0.077-25.94-25.783zM581.979 855.329l-25.863-25.856-0.015 0.015 25.878 25.841zM474.010 855.329l25.878-25.841-0.029-0.029-25.849 25.871zM146.286 527.901h-36.571c0 9.706 3.858 19.013 10.723 25.874l25.848-25.874zM146.286 146.286v-36.571c-20.198 0-36.571 16.374-36.571 36.571h36.571zM527.803 146.286l25.863-25.856c-6.857-6.861-16.161-10.715-25.863-10.715v36.571zM855.526 474.094l25.94-25.779-0.077-0.077-25.863 25.856zM829.663 555.853l-273.547 273.62 51.727 51.712 273.547-273.616-51.727-51.716zM556.101 829.488c-3.69 3.697-8.075 6.627-12.895 8.627l28.014 67.566c13.703-5.683 26.152-14.011 36.637-24.51l-51.756-51.683zM543.206 838.115c-4.824 2-9.991 3.028-15.214 3.028v73.143c14.837 0 29.524-2.926 43.227-8.605l-28.014-67.566zM527.993 841.143c-5.219 0-10.39-1.028-15.21-3.028l-28.017 67.566c13.703 5.68 28.394 8.605 43.227 8.605v-73.143zM512.783 838.115c-4.824-2-9.205-4.93-12.895-8.627l-51.756 51.683c10.481 10.5 22.93 18.827 36.634 24.51l28.017-67.566zM499.858 829.458l-327.724-327.428-51.697 51.745 327.724 327.424 51.697-51.741zM182.857 527.901v-381.616h-73.143v381.616h73.143zM146.286 182.857h381.517v-73.143h-381.517v73.143zM501.939 172.142l327.724 327.808 51.727-51.712-327.724-327.808-51.727 51.713zM829.586 499.873c7.402 7.45 11.557 17.525 11.557 28.028h73.143c0-29.82-11.798-58.434-32.819-79.587l-51.88 51.558zM841.143 527.901c0 10.507-4.155 20.582-11.557 28.028l51.88 51.562c21.021-21.157 32.819-49.766 32.819-79.59h-73.143zM329.143 329.143v73.143c40.397 0 73.143-32.746 73.143-73.143h-73.143zM329.143 329.143h-73.143c0 40.397 32.747 73.143 73.143 73.143v-73.143zM329.143 329.143v-73.143c-40.396 0-73.143 32.747-73.143 73.143h73.143zM329.143 329.143h73.143c0-40.396-32.746-73.143-73.143-73.143v73.143z"
+                ],
+                "attrs": [{ "fill": "rgb(153, 153, 153)", "stroke": "rgb(153, 153, 153)" }],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["tag"],
+                "colorPermutations": { "15315315312552552551": [{ "f": 0 }] }
+            },
+            "attrs": [{ "fill": "rgb(153, 153, 153)" }],
+            "properties": {
+                "order": 17,
+                "id": 1,
+                "name": "tag",
+                "prevSize": 32,
+                "code": 59648
+            },
+            "setIdx": 0,
+            "setId": 2,
+            "iconIdx": 0
+        },
+        {
+            "icon": {
+                "paths": ["M530.289 323.926v376.165M336.982 512.007h386.613M1013.552 512.007c0 259.686-216.364 470.206-483.262 470.206-266.902 0-483.267-210.52-483.267-470.206s216.365-470.204 483.267-470.204c266.898 0 483.262 210.518 483.262 470.204z"],
+                "attrs": [
+                    {
+                        "fill": "none",
+                        "stroke": "rgb(255, 255, 255)",
+                        "strokeLinejoin": "round",
+                        "strokeLinecap": "round",
+                        "strokeMiterlimit": "4",
+                        "strokeWidth": 36.57142857142857
+                    }
+                ],
+                "width": 1061,
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["plus"],
+                "colorPermutations": { "15315315312552552551": [{ "s": 1 }] }
+            },
+            "attrs": [
+                {
+                    "fill": "none",
+                    "stroke": "rgb(255, 255, 255)",
+                    "strokeLinejoin": "round",
+                    "strokeLinecap": "round",
+                    "strokeMiterlimit": "4",
+                    "strokeWidth": 36.57142857142857
+                }
+            ],
+            "properties": {
+                "order": 18,
+                "id": 0,
+                "name": "plus",
+                "prevSize": 32,
+                "code": 59649
+            },
+            "setIdx": 0,
+            "setId": 2,
+            "iconIdx": 1
+        },
+        {
+            "icon": {
                 "paths": ["M1024 590.444l-512-397.426-512 397.428v-162.038l512-397.426 512 397.428zM896 576v384h-256v-256h-256v256h-256v-384l384-288z"],
                 "tags": ["home", "house"],
                 "defaultCode": 59648,
@@ -104,6 +248,86 @@
             },
             "setIdx": 0,
             "setId": 3,
+            "iconIdx": 1
+        },
+        {
+            "icon": {
+                "paths": ["M621.714 731.429l-219.429-219.429 219.429-219.429"],
+                "attrs": [
+                    {
+                        "fill": "none",
+                        "stroke": "rgb(24, 160, 251)",
+                        "strokeLinejoin": "round",
+                        "strokeLinecap": "round",
+                        "strokeMiterlimit": "4",
+                        "strokeWidth": 36.57142857142857
+                    }
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["leftarrow"],
+                "colorPermutations": { "15315315312416025112552552551": [{ "s": 0 }] }
+            },
+            "attrs": [
+                {
+                    "fill": "none",
+                    "stroke": "rgb(24, 160, 251)",
+                    "strokeLinejoin": "round",
+                    "strokeLinecap": "round",
+                    "strokeMiterlimit": "4",
+                    "strokeWidth": 36.57142857142857
+                }
+            ],
+            "properties": {
+                "order": 19,
+                "id": 3,
+                "name": "leftarrow",
+                "prevSize": 32,
+                "code": 59648
+            },
+            "setIdx": 0,
+            "setId": 2,
+            "iconIdx": 0
+        },
+        {
+            "icon": {
+                "paths": ["M402.286 731.429l219.429-219.429-219.429-219.429"],
+                "attrs": [
+                    {
+                        "fill": "none",
+                        "stroke": "rgb(24, 160, 251)",
+                        "strokeLinejoin": "round",
+                        "strokeLinecap": "round",
+                        "strokeMiterlimit": "4",
+                        "strokeWidth": 36.57142857142857
+                    }
+                ],
+                "isMulticolor": false,
+                "isMulticolor2": false,
+                "grid": 0,
+                "tags": ["rightarrow"],
+                "colorPermutations": { "15315315312416025112552552551": [{ "s": 0 }] }
+            },
+            "attrs": [
+                {
+                    "fill": "none",
+                    "stroke": "rgb(24, 160, 251)",
+                    "strokeLinejoin": "round",
+                    "strokeLinecap": "round",
+                    "strokeMiterlimit": "4",
+                    "strokeWidth": 36.57142857142857
+                }
+            ],
+            "properties": {
+                "order": 20,
+                "id": 2,
+                "name": "rightarrow",
+                "prevSize": 32,
+                "code": 59649
+            },
+            "setIdx": 0,
+            "setId": 2,
             "iconIdx": 1
         }
     ],

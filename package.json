@@ -66,6 +66,7 @@
     "eslint-plugin-react-hooks": "^3.0.0",
     "jest": "^26.0.1",
     "prettier": "2.0.4",
-    "prettier-eslint": "^9.0.1"
+    "prettier-eslint": "^9.0.1",
+    "react-sidebar": "^3.0.2"
   }
 }
